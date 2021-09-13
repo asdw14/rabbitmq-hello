@@ -1,4 +1,4 @@
-package com.eight;
+package com.dizhongdi.eight;
 
 import com.dizhongdi.utils.RabbitMqUtils;
 import com.rabbitmq.client.AMQP;
@@ -7,7 +7,7 @@ import com.rabbitmq.client.Channel;
 
 /**
  * ClassName:Producer
- * Package:com.eight
+ * Package:com.dizhongdi.eight
  * Description:
  *      死信交换机之生产者
  * @Date: 2021/9/14 3:26

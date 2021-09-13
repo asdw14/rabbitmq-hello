@@ -1,4 +1,4 @@
-package com.eight;
+package com.dizhongdi.eight;
 
 import com.dizhongdi.utils.RabbitMqUtils;
 import com.rabbitmq.client.BuiltinExchangeType;
@@ -10,7 +10,7 @@ import java.util.Map;
 
 /**
  * ClassName:Consumer01
- * Package:com.eight
+ * Package:com.dizhongdi.eight
  * Description:
  *  死信交换机
  *  消费者C1
