@@ -15,7 +15,7 @@ import com.rabbitmq.client.ConnectionFactory;
 public class RabbitMqUtils {
     public static Channel getChannel() throws Exception{
         ConnectionFactory mq = new ConnectionFactory();
-        mq.setHost("120.25.77.162");
+        mq.setHost("120.76.118.137");
         mq.setUsername("asdw14");
         mq.setPassword("asdw14");
         Connection connection = mq.newConnection();
